@@ -1,7 +1,7 @@
 # SchlackenCraft
 Github Repository for the Minecraft Modpack SchlackenCraft
 
-# the core mods are:
+# The core mods are:
 
 ## Create
 ![create mod picture](https://preview.redd.it/rcpgibdaqkl61.png?width=1920&format=png&auto=webp&s=c5b0c957843c37c6a7b6cc734c3934465c955415)
